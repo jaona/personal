@@ -10,3 +10,4 @@ A list of selected TED talks I have been watching and I possibly would enjoy wat
 - [Malcolm Gladwell: Choice, happiness and spaghetti sauce](https://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce) *#business #choice #consumerism #culture #economics #food #marketing #media #storytelling*
 - [Mandy Len Catron: Falling in love is the easy part](https://www.ted.com/talks/mandy_len_catron_falling_in_love_is_the_easy_part) *#love #media #writing*
 - [Renata Salecl: Our unhealthy obsession with choice](https://www.ted.com/talks/renata_salecl_our_unhealthy_obsession_with_choice) *#choice #culture #social_change*
+- [Sauti Sol: The rhythm of Afrobeat](https://www.ted.com/talks/sauti_sol_the_rhythm_of_afrobeat) *#africa #music #performance #vocals*
