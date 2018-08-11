@@ -4,6 +4,12 @@ Below you can find a list of some of the movies I have been watching (or re-watc
 
 # 2018
 
+- [What Dreams May Come (1998)](https://www.imdb.com/title/tt0120889/)
+- [Billionaire Boys Club (2018)](https://www.imdb.com/title/tt5179598/)
+- [3 Idiots (2009)](https://www.imdb.com/title/tt1187043/)
+- [Paris, je t'aime (2006)](https://www.imdb.com/title/tt0401711/)
+- [Mr and Mrs Smith (2005)](https://www.imdb.com/title/tt0356910/)
+- [Tomb Raider (2018)](https://www.imdb.com/title/tt1365519/)
 - [Born to Be Blue (2015)](https://www.imdb.com/title/tt2133196/)
 - [Fantastic Beasts and Where to Find Them (2016)](https://www.imdb.com/title/tt3183660)
 - [Thor: Ragnarok (2017)](https://www.imdb.com/title/tt3501632/)
