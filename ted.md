@@ -13,3 +13,4 @@ A list of selected TED talks I have been watching and I possibly would enjoy wat
 - [Raymond Tang: Be humble – and other lessons from the philosophy of water](https://www.ted.com/talks/raymond_tang_be_humble_and_other_lessons_from_the_philosophy_of_water) *#humanity #motivation #personal_growth #philosophy #success #water*
 - [Renata Salecl: Our unhealthy obsession with choice](https://www.ted.com/talks/renata_salecl_our_unhealthy_obsession_with_choice) *#choice #culture #social_change*
 - [Sauti Sol: The rhythm of Afrobeat](https://www.ted.com/talks/sauti_sol_the_rhythm_of_afrobeat) *#africa #music #performance #vocals*
+- [Simon Sinek: Why good leaders make you feel safe](https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe) *#business #leadership #military #work*
